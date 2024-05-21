@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../psd-to-wp"
+		},
+		{
+			"path": "../../../../Downloads/Compressed/html-and-css-crash-course-5d64aac581022e88f75409d2ae74d879a13f518c/responsive_design"
+		},
+		{
+			"path": "../../../../Downloads/Compressed/grid/grid"
+		},
+		{
+			"path": "../../../../Downloads/Compressed/Gride_Ex"
+		},
+		{
+			"path": "../../../../Downloads/Compressed/form_html_css/form_html_css"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "form_html_css",
+		"liveServer.settings.port": 5501
+	}
+}
